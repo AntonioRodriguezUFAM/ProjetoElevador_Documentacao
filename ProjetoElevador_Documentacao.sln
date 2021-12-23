@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoElevador_Documentacao", "ProjetoElevador_Documentacao.csproj", "{51673704-6E0A-412A-A836-7C25EC3726FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51673704-6E0A-412A-A836-7C25EC3726FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51673704-6E0A-412A-A836-7C25EC3726FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51673704-6E0A-412A-A836-7C25EC3726FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51673704-6E0A-412A-A836-7C25EC3726FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0BAE1A-6C00-4C3A-868B-2EEBBAD8C2BB}
+	EndGlobalSection
+EndGlobal
